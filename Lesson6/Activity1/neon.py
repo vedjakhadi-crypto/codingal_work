@@ -19,6 +19,6 @@ for i in range(80):
     pen.width(2)
     pen.forward(i*2)
     pen.right(91)
-turtle.done()
 
+turtle.done()
 
